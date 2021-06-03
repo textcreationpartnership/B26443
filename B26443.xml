@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The maidens plea, or, Her defence and vindication of her self against all objections ... written by a person of qualities.</title>
+            <author>Person of qualities.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26443</idno><idno type="EEBO-CITATION">12605932</idno>
+  <idno type="VID">199282</idno>
+  <idno type="EEBO-PROQUEST">2240982837</idno>
+  
+            <idno type="STC">Wing M271A</idno>
+            <idno type="OCLC">12605932</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 339:10c)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The maidens plea, or, Her defence and vindication of her self against all objections ... written by a person of qualities.</title>
+                  <author>Person of qualities.</author>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bound with Wing  A370, N708, B6325, and S3055. Each item has special title page and seperate pagination.</note>
+                  <note>Reproduction of original in Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199282:1"/>
+            <pb facs="tcp:199282:1"/>
+            <p>THE Maidens Plea: Or, Her DEFENCE, and VINDICATION Of her Self, Against all <hi>Objections;</hi> Notwithstanding, Mr. <hi>Harris</hi>'s Dying in Bed with her, <hi>July</hi> the 26th. 1684.</p>
+            <p>SHEWING, That she ought not at all to be <hi>Condemned,</hi> but rather to be <hi>much Commended</hi> for her <hi>Prudent Carriage,</hi> and <hi>Kindness</hi> to that <hi>Gentleman.</hi>
+            </p>
+            <p>TOGETHER, With a word or two to the <hi>Wise</hi> in behalf of the <hi>Sisterhood</hi> in <hi>General. All</hi> in Order to a <hi>Thorough Reformation,</hi> and set<g ref="char:EOLhyphen"/>ting the <hi>Saddle</hi> upon the <hi>Right Horse.</hi>
+            </p>
+            <p>And Written by a Person of <hi>Qualities.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Croom,</hi> for the Author. 1684. <add>5. Sept.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:199282:2"/>
+            <pb n="1" facs="tcp:199282:2"/>
+            <head>THE Maidens Plea.</head>
+            <opener>
+               <salute>Most Worthy, &amp;c.</salute>
+            </opener>
+            <p>I Am brought here before you, under the <hi>Accusation</hi> of being a most <hi>wicked</hi> and <hi>heinous Malefactor▪ Impudence, Whoredom,</hi> and <hi>Murder,</hi> were the <hi>Crimes</hi> that those <hi>Gotham <hi>Witnesses,</hi>
+               </hi> out of their great love to <hi>Vertue,</hi> and <hi>Justice, right</hi> or <hi>wrong,</hi> think it <hi>their business,</hi> and are not a little <hi>proud</hi> of the <hi>Office</hi> to lay upon me. I should be much out of <hi>Countenance,</hi> were my <hi>Guilt</hi> equal to their <hi>Folly.</hi> For, first as to <hi>Murder;</hi> What can with any <hi>shew of reason</hi> be objected against me? Am I to <hi>answer</hi> for it, if a Man <hi>Dyes</hi> in my <hi>Company?</hi> It is not <hi>our Parts</hi> Gentlemen to <hi>keep</hi> men from <hi>Death</hi> and make them <hi>Im<g ref="char:EOLhyphen"/>mortal;</hi> that is <hi>in their Persons,</hi> our business indeed is to make them so <hi>another way,</hi> that is, in their <hi>Posterity;</hi> and pray when have I fail'd of <hi>that</hi> as often as it lay in <hi>my way,</hi> or, I had <hi>any opportunity?</hi> Besides, what should I have <hi>got</hi> by <hi>dispatching</hi> him? What do I come into <hi>Possession</hi> of, What has he <hi>left me?</hi> I have indeed some <hi>Letters</hi> where he gives me his <hi>Heart,</hi> but as to <hi>Lands</hi> and <hi>Tenements, Estate Real,</hi> or <hi>Personal,</hi> there's <hi>not a Sylla<g ref="char:EOLhyphen"/>ble.</hi> But the very <hi>Circumstances</hi> that accompanyed, and were indeed the <hi>true cause</hi> of this <hi>Tragedy</hi> do sufficiently <hi>acquit</hi> me. Consider, I pray, he had been drinking <hi>before</hi> he came to me.
+<pb n="2" facs="tcp:199282:3"/>I was no <hi>Doctor</hi> of <hi>Physick,</hi> nor had any <hi>Cordial,</hi> or <hi>Antidote</hi> by me, powerful enough to <hi>cure</hi> a man of a <hi>Pottle</hi> of <hi>Brandy:</hi> be<g ref="char:EOLhyphen"/>sides, you can't but remember how violent <hi>hot weather</hi> it then was. Heaven <hi>burnt</hi> the <hi>Brandy</hi> within him: It was the <hi>Dog-days;</hi> and if the <hi>Dog</hi> then <hi>reigned</hi> was that the <hi>Bitches,</hi> fault? I was willing I confess to stay and <hi>accompany</hi> him, <hi>That he might drink no more;</hi> for I know <hi>you Men</hi> when you are a little <hi>warm,</hi> if no <hi>discreet body</hi> be with you, to <hi>perswade</hi> and keep you <hi>from it,</hi> you think you <hi>never</hi> have <hi>enough;</hi> and then what <hi>mischief</hi> are you not exposed both to <hi>do</hi> and <hi>suffer?</hi> You <hi>Quarrel</hi> and <hi>Fight</hi> one with another; somebody's <hi>Head</hi>'s <hi>broke,</hi> or goes <hi>formost</hi> down Stairs: then the Windows in the Street goe to wrack for not being <hi>Wine-glasses;</hi> and the <hi>Watch</hi> must be <hi>Hectored</hi> for kindly offering to lead you when you can nether <hi>goe</hi> nor <hi>stand.</hi> The <hi>noise</hi> and <hi>Tumult</hi> increases; the Multitude flock about to <hi>Gape</hi> at the Bustle togeather: Then must the <hi>Posse Comitatious</hi> come <hi>hurrying</hi> to see whether it ware a Plot, or <hi>Pot</hi> at Midnight that caused this <hi>Uproare:</hi> besides, how many suites and <hi>Actions</hi> are daily brought before you by the <hi>Vintner,</hi> by the <hi>Constable,</hi> the <hi>Shop keeper,</hi> nay, by the common <hi>Injur'd Passenger</hi> in the streetes by reason of these <hi>Extravagancys.</hi> I kept close to him to <hi>prevent</hi> all this. I sav'd, our <hi>Gardian Angells</hi> of <hi>Horse</hi> from <hi>Hunting</hi> in the <hi>Dark</hi> to find their <hi>Bridles,</hi> and <hi>Girts;</hi> and those of the <hi>long Pole</hi> and <hi>Halbard</hi> from being call'd away to <hi>Aid</hi> and <hi>Assist</hi> before their <hi>Drink</hi> was out: I <hi>eas'd your selves</hi> from <hi>Hear<g ref="char:EOLhyphen"/>ing,</hi> And being pressed with so many Brangles, nay saved the poor <hi>Deceased</hi> tho not from the hard <hi>Fate</hi> he met with in <hi>Bed:</hi> yet from that which he had elfe <hi>met</hi> with of having <hi>no Bed</hi> at all. And what could his <hi>own Wife</hi> have done more had she been <hi>pre<g ref="char:EOLhyphen"/>sent?</hi> She no doubt is sensible <hi>how much</hi> she is <hi>beholding</hi> to me; and I shall have her <hi>Thanks</hi> as well as I had her <hi>Place;</hi> for, I was neither <hi>Coy</hi> nor <hi>Careless;</hi> and the <hi>worst</hi> that <hi>Malice</hi> it self can say of me, is but that I perform'd <hi>her part</hi> to him in <hi>every thing.</hi> And now for this, by a company of <hi>Sniveling,</hi> and <hi>Officious <hi>Smell-Smocks</hi>
+               </hi> I am <hi>Indicted,</hi> and brought my self to be the <hi>Sacrifice.</hi>
+            </p>
+            <p>As to the other part of my Accusation, which intimates that I was his <hi>Whore;</hi> my Accusers take little notice, and their Hearts are <hi>too narrow</hi> to conceive what might be: and were, my
+<pb n="3" facs="tcp:199282:3"/>
+               <hi>Generous Intentions:</hi> but in Bed with the Gentleman I was; and the <hi>Bed</hi> also; I percieve, <hi>makes Oath</hi> against me. I confess, when a <hi>Bed Speakes</hi> there's no Denying; an able <hi>Modern Civilian</hi> has determined the Question, 'Tis <hi>Legal Evidence.</hi> Why truly Gentlemen, the <hi>Bed,</hi> if it would speak <hi>its Conscience,</hi> well knows that I lay there as Chaste as any <hi>Vestal Virgin:</hi> &amp; for the Gentle<g ref="char:EOLhyphen"/>man, from the very Moment that I with much ado <hi>toss'd</hi> him into it, he lay as <hi>Dead</hi> as any <hi>Log;</hi> you could not have known him from one of the <hi>Bed-Posts,</hi> but that <hi>he lay</hi> in the <hi>Middle.</hi> How could it otherwise be? I know your Worthinesses know what belongs to <hi>Drinking.</hi> Can any of this <hi>good Comyany</hi> brag of Complementing their Wives, when they come Home in my departed Friends <hi>Condition?</hi> 'Tis spoken as a Jeer to me sure, not as an <hi>Accusation,</hi> that I had <hi>so decrepit</hi> and sorry a <hi>Bed-fel<g ref="char:EOLhyphen"/>low.</hi> Upon my Reputation, 8 <hi>s.</hi> and 6 <hi>d.</hi> he had in his Belly, in <hi>Aquae Mirabilis,</hi> and <hi>Cherry-Brandy,</hi> that he had drank by himself <hi>all alone,</hi> before ever he set Foot within my Threshold. But you will say, Why did I then at all <hi>admit</hi> him <hi>in?</hi> Alas! it was <hi>extream late;</hi> I saw that <hi>Wine,</hi> and <hi>Oriental,</hi> or <hi>hot Weather</hi> had much <hi>prevailed</hi> upon him. Would you have had me let him go away at <hi>that Time,</hi> and <hi>Pickle,</hi> to be <hi>Robb'd</hi> or <hi>Knock'd</hi> on the <hi>Head?</hi> no truly; I rather thought it was any <hi>Honest Wo<g ref="char:EOLhyphen"/>mans Duty</hi> to perswade him to <hi>Stay;</hi> nay, and I was fain to make use of my <hi>Wits</hi> too <hi>to do it:</hi> for, what <hi>Arguments</hi> were to be used to a <hi>Drunken-Man?</hi> Should I have told him it was <hi>Late</hi> and <hi>Dangerous,</hi> he would have scorned I should so far have <hi>questioned</hi> his <hi>Courage,</hi> and then nothing would have <hi>held him.</hi> So I was fain to <hi>Study,</hi> not what was most <hi>Reasonable</hi> and <hi>Mo<g ref="char:EOLhyphen"/>dest,</hi> but what was likeliest to <hi>Take</hi> and <hi>Prevail</hi> with <hi>his Hu<g ref="char:EOLhyphen"/>mour</hi> under those <hi>Circumstances.</hi> So with (I must needs say) <hi>some Blushes,</hi> I told him, if he would <hi>stay</hi> he should lye in <hi>my Bed,</hi> and I would be his <hi>Bed fellow.</hi> Did you ever observe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen a <hi>Porridge-pot</hi> Boyls over upon too quick a Fire, if the Maid makes hast to pour in a little cold Water, how <hi>soon</hi> it is <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmed;</hi> just so was he. In short, I pull'd off his <hi>Cloaths.</hi> I <hi>Air'd</hi> h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m a <hi>Cap,</hi> and to <hi>Bed</hi> I got him. Now I Appeal to your se<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves, whether I did not act like a <hi>Parliament,</hi> more than lik<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>Baudy-House,</hi> in endeavouring so far to provide for the <hi>Good</hi> and <hi>Welfare</hi> of the <hi>meanest Subject?</hi> And whether
+<pb n="4" facs="tcp:199282:4"/>this <hi>Harangue</hi> of mine, savoured of being <hi>Impudent,</hi> and were not rather meer <hi>Rhetorique</hi> and <hi>Eloquence?</hi>
+            </p>
+            <p>But you will say, what need I have gone <hi>into</hi> the <hi>Bed</hi> to him still? Gentlemen, if you did not live in so <hi>Civiliz'd</hi> a <hi>Country</hi> as <hi>ours,</hi> or had never heard of acts of <hi>Humanity,</hi> and <hi>Goodness,</hi> I should not at all Wonder at your <hi>Question.</hi> Dont you apprehend that this poor Gentleman not being <hi>himself,</hi> was first <hi>no Man,</hi> Secondly, Alas! he was not able to <hi>Speak,</hi> nor <hi>Stand,</hi> nor <hi>Look;</hi> his Colour was <hi>quite gone,</hi> his Hands <hi>Trembled,</hi> two or three Vomitings, little or nothing <hi>Eased him;</hi> he had not <hi>Strength</hi> to bring up more; his Fore-head was all under a <hi>cold Sweat.</hi> This was a fine time indeed for a Woman to desire his company for a <hi>Bed-felliw:</hi> I became therefore so Kind to him, out of <hi>Mortification,</hi> not out of <hi>Wantonness.</hi> I <hi>fore-Considered</hi> what might befall him in the Night, if he grew <hi>Colder</hi> and <hi>Colder,</hi> and were <hi>alone;</hi> I had often seen the <hi>sad Ex<g ref="char:EOLhyphen"/>perience.</hi> I made my <hi>Prognostick,</hi> I judg'd <hi>Warmth</hi> and <hi>Company,</hi> could only relieve him: so I put off <hi>Preciseness</hi> with my <hi>Peticoat,</hi> and went to <hi>Bed</hi> to him, as his <hi>Nurs-keeper,</hi> not as his <hi>Wench.</hi> Had he indeed been amongst <hi>Light Women,</hi> they would have cried <hi>Hang him,</hi> let him goe, has he any <hi>Mo<g ref="char:EOLhyphen"/>ney</hi> in his Poket? But I preferr'd <hi>Charity,</hi> and the saving of <hi>his Life,</hi> before even the hazard of my own <hi>Reputation;</hi> and <hi>nobly</hi> I think <hi>wav'd,</hi> regarding the <hi>Gloss</hi> and <hi>Letter</hi> of the <hi>Law,</hi> that I might fulfill the <hi>Intent</hi> and <hi>Morality</hi> of it; which is not the preserving our <hi>Fames,</hi> from the Tongues of <hi>Hypocrits,</hi> and <hi>Tittle tattle,</hi> but of the <hi>Lives</hi> and <hi>Well-being</hi> of your <hi>Illustri<g ref="char:EOLhyphen"/>ous Comrades, <hi>Man-kind</hi>
+               </hi> And who does not rather <hi>Envy</hi> him than <hi>Blame</hi> me, for my so <hi>Pious Condescension?</hi> And would not some of you be <hi>Sick</hi> your selves on <hi>purpose,</hi> if you were but sure you should be so well <hi>Tended?</hi>
+            </p>
+            <p>Your Worthinesses I hope are satisfied, that I was neithe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any way accessary to his <hi>Death,</hi> nor could be so <hi>Dull</hi> as p<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> hope to be <hi>unchast,</hi> with such a <hi>Carkass.</hi> It remains now, ony to shew your own great <hi>Judgment</hi> and <hi>Uprightness,</hi> upon unde<g ref="char:EOLhyphen"/>standing this most true <hi>Narrative</hi> and Representation of the <hi>Mt<g ref="char:EOLhyphen"/>ter.</hi> Neither am I concerned only for <hi>my self,</hi> but having so reasonable an <hi>Opportunity,</hi> I crave leave to say a Word or wo in behalf of such other <hi>Damsels,</hi> as are, or may be my <hi>Fel<g ref="char:EOLhyphen"/>low
+<pb n="5" facs="tcp:199282:4"/>Sufferers,</hi> for the <hi>like Kindness.</hi> There are many <hi>Pretty Women,</hi> (who are some Relations to me at a <hi>Distance</hi>) that are <hi>Morningly</hi> sent to the <hi>Round-House, New-Prison, Bridewell,</hi> and such <hi>horrid</hi> Places, for only doing over Night <hi>as if</hi> they were <hi>Married</hi> with some of your Worthinesses <hi>own Sex.</hi> Truly I am much afflicted at it: If <hi>Marriage</hi> be <hi>Honourable,</hi> pray why not the <hi>Imitation</hi> of it so too? The <hi>Threatre,</hi> where you Daily flock in throngs, afford no <hi>real Princesses</hi> nor <hi>Heroes,</hi> yet are the <hi>Players,</hi> (who are neither <hi>better</hi> nor <hi>worse</hi> then our selves) <hi>admired</hi> and <hi>extoll'd</hi> by you, for <hi>acting</hi> so like them. Now <hi>we play Marriage;</hi> that's all: why then are <hi>we alone</hi> Discountenanced? But suppose it be a <hi>Fault,</hi> ought not then <hi>both Parties</hi> alike to <hi>Suffer?</hi> else 'tis but the shew and <hi>shaddow</hi> of <hi>Justice,</hi> not the Substance; this is but <hi>acting of her:</hi> for doth any Woman lye with a Man, and not at the same time a Man lye with a Woman? But where are the <hi>Men</hi> that are <hi>beating</hi> of <hi>Hemp,</hi> for this? Where are the Men that are led by <hi>Constables</hi> and <hi>Beadles,</hi> through the Streets in Triumph? Where are the <hi>Work-houses,</hi> that they are Feasting upon <hi>Bread</hi> and <hi>Water</hi> in? and where may we <hi>peep</hi> and <hi>flear</hi> through Prison Grates <hi>at them?</hi> No, they are no more <hi>touched,</hi> than if every <hi>Whore-master</hi> were a <hi>Justice</hi> himself. And yet we poor Souls too least deserve this <hi>Rigor.</hi> The Men are <hi>Principles,</hi> and we but <hi>Accessories</hi> at most, even in cases of our own <hi>failings,</hi> and <hi>Weakness:</hi> for are not the Men the first <hi>Aggressors?</hi> Don't they preach <hi>Guineys, Love, Wine,</hi> and all that's possible; <hi>Haunt, pursue,</hi> and <hi>watch</hi> us like <hi>unreclaimed Hawks,</hi> till they have turn'd us into being the <hi>prey?</hi> Yet we must be <hi>blamed,</hi> 'tis our <hi>faults;</hi> the <hi>Receiver</hi> you say makes the <hi>Thief:</hi> as if the <hi>Honey-pot,</hi> made the <hi>Wasps</hi> and <hi>Hornets</hi> that flock about it: or as if a Court of <hi>Admirality,</hi> should <hi>adjudge</hi> a <hi>Prize</hi> to be the <hi>Pyrate. <hi>O Times! O Man<g ref="char:EOLhyphen"/>ners!</hi> O Airrea!</hi> whether art thou <hi>Fled?</hi>
+            </p>
+            <p>But still, what <hi>good</hi> is there like to be done by <hi>Punishing</hi> only <hi>us?</hi> Will the Men become <hi>Saints</hi> by your making Women <hi>Martyrs?</hi> Do you think to <hi>Reforme</hi> the <hi>Age</hi> by Imitating that <hi>Politique Knight <hi>Sir Hudibras,</hi>
+               </hi> who would wear but <hi>one Spur,</hi> because for 100th he <hi>presum'd</hi> if he could but make his <hi>Jade</hi> go on <hi>one side,</hi> the tother, would not hang—<hi>a behind?</hi> Thus <hi>you will rather</hi> be <hi>Jockeys</hi> then <hi>Judges,</hi> and <hi>Reformation</hi> will go on <hi>as
+<pb n="6" facs="tcp:199282:5"/>much as My Horse.</hi> No, most <hi>Philosophick Sages,</hi> This will never do; this is not the <hi>right Course:</hi> the <hi>Sympathy</hi> betwixt <hi>us</hi> is at an end as soon as we are out of their <hi>Arms.</hi> There's no further <hi>Motion</hi> by <hi>Consent of parts;</hi> nor, do they <hi>Pace</hi> to <hi>Church</hi> at the same time we are <hi>Spur'd</hi> and <hi>Ambling</hi> to <hi>Bride<g ref="char:EOLhyphen"/>well:</hi> but, if you would have us to be in earnest <hi>Righteous, <hi>Begin</hi>
+               </hi> with the <hi>men,</hi> whip them <hi>first.</hi> Or (which I fear you had rather be <hi>whip't your Selves</hi> then do; nor, to speak <hi>truth,</hi> do <hi>we desire it</hi>) Give them a <hi>Good Example.</hi>
+            </p>
+            <p>But I will not be longer Tedious to so <hi>Apprehensive</hi> and <hi>Ju<g ref="char:EOLhyphen"/>dicious</hi> an <hi>Auditory:</hi> I see the marks of a generous <hi>Resentment</hi> sit already upon your <hi>Fore-Heads;</hi> go on then, most worthy <hi>Patriots,</hi> to be more <hi>Impartial</hi> in your <hi>Censures: Pity</hi> at least those whom you pretend to <hi>adore;</hi> and if you can't afford us <hi>Love,</hi> allow us <hi>Justice. Justice</hi> indeed her self, you know is <hi>Blind:</hi> Now if you can't attain to her <hi>Perfection,</hi> yet at least, <hi>Wink a little,</hi> and become as <hi>like her</hi> as you <hi>can;</hi> and henceforth, either wholly acquit us, which will be most <hi>Great</hi> and <hi>Manly,</hi> or <hi>Alien</hi> not <hi>part</hi> of your Native Country, by turning <hi>Bridewell</hi> into a <hi>Region</hi> of <hi>Amazons,</hi> and deprive us of our <hi>Loves</hi> Society <hi>there,</hi> where both <hi>they best</hi> deserve <hi>Ours,</hi> and <hi>we</hi> have most need of their <hi>Company</hi> and <hi>Comfort.</hi> So shall all such <hi>publick Spirited <hi>Virgins</hi>
+               </hi> as my <hi>self,</hi> not <hi>Sing,</hi> but <hi>kiss</hi> your Praises. The <hi>Men</hi> shall <hi>fear,</hi> and the <hi>Women</hi> shall <hi>Hug</hi> you, and shall be called by the Sex that <hi>cannot Flatter,</hi> The <hi>Chancellors</hi> of <hi>Nature,</hi> the <hi>Fathers-in-Law</hi> of your <hi>Country,</hi> and the <hi>Patrons</hi> of the <hi>Fair,</hi> the <hi>Credulous,</hi> and the <hi>Faithful.</hi>
+            </p>
+            <closer>
+               <signed>DIXI.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
